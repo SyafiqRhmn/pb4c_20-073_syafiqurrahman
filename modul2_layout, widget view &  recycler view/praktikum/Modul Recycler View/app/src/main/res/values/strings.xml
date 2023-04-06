@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Modul 2</string>
+    <string name="linear_rv_activity">Linear RecyclerView</string>
+    <string name="linear_recyclerview">Linear RecyclerView</string>
+</resources>
