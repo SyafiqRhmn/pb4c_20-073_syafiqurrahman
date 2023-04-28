@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sumenep</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Syafiqurrahman</string>
+    <string name="my_email">syafiqurrahman802@gmail.com</string>
+
+    <string name="district_name">Nama Kecamatan</string>
+
+    <string name="title_about_detail">Contact Person \n \nInstagram \n </string>
+    <string name="about_detail">\n \n@syafiqrhmn  </string>
+</resources>
